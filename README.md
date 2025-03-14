@@ -3,6 +3,18 @@
 
 Este es un programa en Python para gestionar notas. El programa permite agregar, editar y ver notas de manera interactiva a través de un menú.
 
+## Requisitos
+- Python 3.10 +
+- Visual Studio Code
+
+**Ejecutar el programa**:
+   - Copia el archivo de Python en tu máquina local.
+   - Abre una terminal o consola de comandos en la carpeta donde se encuentra el archivo.
+   - Ejecuta el archivo con el siguiente comando:
+     ```bash
+     python nombre_del_archivo.py
+     ```
+
 ## Funcionalidades
 
 El programa ofrece las siguientes opciones:
@@ -69,4 +81,10 @@ Bienvenido al Menú de notas
 Ingrese la opción que desea realizar: 3
 Las notas son: [9.0, 7.0]
 
-***Este proyecto fue creado por*** [Jose Manuel Mesa Ospina].
+**Licencia**
+Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
+**Contacto**
+josem160m@gmail.com
+
+**Este proyecto fue creado por** [Jose Manuel Mesa Ospina].
