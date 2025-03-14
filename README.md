@@ -18,11 +18,15 @@ El programa ofrece las siguientes opciones:
    
 3. **Opciones**:
     Opción 1: Te permitirá agregar nuevas notas a la lista.
+   
     Opción 2: Podrás elegir una nota y modificarla.
+   
     Opción 3: Te mostrará todas las notas almacenadas.
+   
     Opción 4: Cierra el programa.
+   
 
-4. **Salida**:
+5. **Salida**:
    Si eliges la opción 4, el programa se detendrá.
 
 ## Ejemplo de ejecución
