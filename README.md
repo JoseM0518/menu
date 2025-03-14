@@ -11,9 +11,7 @@ Este es un programa en Python para gestionar notas. El programa permite agregar,
    - Copia el archivo de Python en tu máquina local.
    - Abre una terminal o consola de comandos en la carpeta donde se encuentra el archivo.
    - Ejecuta el archivo con el siguiente comando:
-     ```bash
-     python nombre_del_archivo.py
-     ```
+     python (nombre_del_archivo).py
 
 ## Funcionalidades
 
