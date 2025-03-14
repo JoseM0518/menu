@@ -13,17 +13,17 @@ El programa ofrece las siguientes opciones:
 4. **Salir**: Termina la ejecución del programa.
 
 2. **Interactuar con el menú**:
-   - Al ejecutar el programa, se muestra un menú con las opciones disponibles.
-   - Ingresa el número de la opción que deseas realizar
+    Al ejecutar el programa, se muestra un menú con las opciones disponibles.
+    Ingresa el número de la opción que deseas realizar
    
 3. **Opciones**:
-   - Opción 1: Te permitirá agregar nuevas notas a la lista.
-   - Opción 2: Podrás elegir una nota y modificarla.
-   - Opción 3: Te mostrará todas las notas almacenadas.
-   - Opción 4: Cierra el programa.
+    Opción 1: Te permitirá agregar nuevas notas a la lista.
+    Opción 2: Podrás elegir una nota y modificarla.
+    Opción 3: Te mostrará todas las notas almacenadas.
+    Opción 4: Cierra el programa.
 
 4. **Salida**:
-   - Si eliges la opción 4, el programa se detendrá.
+   Si eliges la opción 4, el programa se detendrá.
 
 ## Ejemplo de ejecución
 
