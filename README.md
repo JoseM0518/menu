@@ -68,3 +68,5 @@ Bienvenido al Menú de notas
 4. Salir
 Ingrese la opción que desea realizar: 3
 Las notas son: [9.0, 7.0]
+
+***Este proyecto fue creado por*** [Jose Manuel Mesa Ospina].
