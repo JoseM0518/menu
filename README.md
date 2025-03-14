@@ -1,4 +1,4 @@
-# menu
+# Menú de Notas
 # Sistema de Gestión de Notas
 
 Este es un programa en Python para gestionar notas. El programa permite agregar, editar y ver notas de manera interactiva a través de un menú.
