@@ -11,6 +11,7 @@ Este es un programa en Python para gestionar notas. El programa permite agregar,
    - Copia el archivo de Python en tu máquina local.
    - Abre una terminal o consola de comandos en la carpeta donde se encuentra el archivo.
    - Ejecuta el archivo con el siguiente comando:
+     
      python menun.py
 
 ## Funcionalidades
@@ -85,4 +86,5 @@ Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
 **Contacto**
 josem160m@gmail.com
 
-**Este proyecto fue creado por** [Jose Manuel Mesa Ospina].
+
+**Este proyecto fue creado por** Jose Manuel Mesa Ospina.
