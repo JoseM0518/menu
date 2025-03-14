@@ -21,7 +21,7 @@ El programa ofrece las siguientes opciones:
    
     Opción 2: Podrás elegir una nota y modificarla.
    
-    Opción 3: Te mostrará todas las notas almacenadas.
+    Opción 3: Te mostrará todas las notas guardadas.
    
     Opción 4: Cierra el programa.
    
